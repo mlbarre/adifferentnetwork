@@ -1,7 +1,7 @@
-# hello! welcome to A Different Network!
+# hello! welcome to A Different Network! 🤓
 
 ## description
-this website is a social media platform like your local Twitter, but different! included in this webpage, users can post their thoughts similar to posts and other users within your circle can post their reactions to your thoughts and more! post a thought and see what reactions you receive! 
+this website is a social media platform like your local Twitter, but different! included in this webpage, users can post their thoughts similar to posts and other users within your circle can post their reactions to your thoughts and more! post a thought and see what reactions you receive! 💻
 
 ## installation & usage
 * MongoDB is the primary database for this project.
